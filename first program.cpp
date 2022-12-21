@@ -18,9 +18,6 @@ int main()
 
     }
     cout << endl;
-<<<<<<< HEAD
-    return 2;
-=======
+
     return 1;
->>>>>>> 7509d0d83250005320d80deef1be5b90c5fea517
 }
